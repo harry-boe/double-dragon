@@ -5,6 +5,9 @@ This is a sigle Y version of the "Voron V0.1 Double Dragon IDEX" printer
 
 ## Also called "Ant-Man and the Wasp" 
 
+![front](images/IMG_6848.jpg)
+
+
 The goal of this version is to get away with a common Octopus or spider board that has only 7 steppers.
 Second goal is to save costs and proviede an upgrade path from a standard V0 kit.
 
