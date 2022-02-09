@@ -1,9 +1,53 @@
 # Double Dragon - Single Y Alpha-1 Release 2022-02-06
 
-
 This is a sigle Y version of the "Voron V0.1 Double Dragon IDEX" printer 
 
-## Also called "Ant-Man and the Wasp" 
+
+# Warning: perpetual beta ..
+
+.. also known as the Banana Principle. 
+
+The banana principle is a expression, expressing that this product is still immature and can mature with the consumer. 
+It is based on the fact that bananas harvested unripe, green and delivered only after a maturation period during 
+middlemen or even the end user are edible.
+
+
+
+![front](images/PerpetualBeta.png)
+
+
+.. back to the printer
+
+# Double Dragon Single Y - also called "Ant-Man and the Wasp" 
+
+
+TODO: - add a list of benefits of the single Y vs two steppers (once we know all of them)
+
+
+# Alpha-2 Release 2022-02-09
+
+### Thinkgs are movving fast. While building the Alpha 1 prototype several conclusions poped up.
+
+* There is no need for the stepper tensioners - other tentioning options are more than enough
+* Eliminationg the stepper tensioner allows for a much simpler belt path - reducing the number of bearings and bearing blocks
+* Mounting the stepper in the center provides more symetric friction - reducing the possibility of deracking
+* Heaving a center mount provides the oportunity to eliminate cable mounts and bowden mounts as they can be integrated into the stepper mount
+
+
+![front](images/CenterMount.jpg)
+
+
+.. its not the end yet. There are more things to work on. 
+
+* new back idlers without "deracking/tension" screws
+* add tensioners to the belt mouns an the x gantry (well i'm not yet convinced about this)
+* provide a simple tentioner in the center mount - no not back to the stepper tensioners ..
+
+
+
+
+
+# Alpha-1 Release 2022-02-06
 
 ![front](images/IMG_6848.jpg)
 
@@ -37,3 +81,10 @@ Alpha 1  (Feb. 6 2022)
 - First protoype
 - STL's files released as used on the prototype
 - Latest CAD files not published
+
+Alpha 2 (Feb. 9 2022)
+
+- new center stepper mount
+- new belth path - eliminating 3 bearing stacks
+- Alpha 1 stepper mount and bearing plate removed
+- new belt clips as the belt is now flipped compared to Alpha 1
