@@ -1,4 +1,4 @@
-# Double Dragon - Single Y Alpha-1 Release 2022-02-06
+# Double Dragon - Single Y
 
 This is a sigle Y version of the "Voron V0.1 Double Dragon IDEX" printer 
 
