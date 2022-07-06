@@ -24,6 +24,32 @@ middlemen or even the end user are edible.
 TODO: - add a list of benefits of the single Y vs two steppers (once we know all of them)
 
 
+# The Wasp Alpha-3 2022-06-06
+
+It's been a while since the last update.
+But lots of progress since then.
+
+* The latest ersion is in the Wasp Folder (The Fusion CAD Export)
+* There are also a few "optional" PCB's designed for this printer
+** The Topedck PCB that makes wireing a bit easier and notably cleaner
+** A variation of the Pankake Board that add support for Neopixel LED's (A toolhaad with LED is in the making)
+
+## Some Build notes:
+
+A few parts have built in supports (some of the skirts). So generaly, there is no need for add supports on all the parts.
+In most cases there are some 2 Versions included in the CAD one with and one without supports (if you prefer to let your slicer do the job)
+
+Here are some renders off the actual design:
+
+![front](images/front.png)
+![back](images/back.png)
+
+![single-y](images/DD_SingleY_Assembled_2022-Jul-05_09-26-13AM-000_CustomizedView13581316751.png)
+![single-y-PCB](images/DD_SingleY_Assembled_2022-Jul-05_09-32-01AM-000_CustomizedView39269895321.png)
+![PCB](images/3d-top.jpg)
+
+
+
 # Alpha-2 Release 2022-02-09
 
 ### Thinkgs are movving fast. While building the Alpha 1 prototype several conclusions poped up.
